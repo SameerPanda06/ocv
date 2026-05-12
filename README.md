@@ -1,4 +1,4 @@
-# GestureIQ — AI-Powered Virtual Mouse using OpenCV & MediaPipe
+# GestureIQ AI Powered Virtual Mouse using OpenCV & MediaPipe
 
 GestureIQ is a real-time gesture-controlled virtual mouse system built using Python, OpenCV, MediaPipe, and PyAutoGUI.
 
